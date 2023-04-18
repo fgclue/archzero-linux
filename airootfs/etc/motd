@@ -1,0 +1,10 @@
+  /\ 0       
+ /  \        
+/_/\_\rchZero
+Arch Linux, but without the pain.
+
+Welcome to ArchZero Linux! If you are seeing this outside of a terminal window, then there is a problem with your ISO, or something else. ArchZero is meant to start in a KDE desktop enviroment, with a bar, etc.
+
+If you are seeing this in a terminal window instead, then there is no problem.
+
+If you are seeing this on a tty, try rebooting, and if that still doesn't work, try re-flashing your ISO. If you just wanna launch plasma now and have a change of getting a broken install, run `exec plasma-wayland` or `exec plasma-x11`
