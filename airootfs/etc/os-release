@@ -1,1 +1,12 @@
-../usr/lib/os-release
+NAME="ArchZero"
+PRETTY_NAME="ArchZero"
+ID=zero
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;32"
+HOME_URL="https://bitle.nl/"
+DOCUMENTATION_URL="https://biitle.nl/"
+SUPPORT_URL="https://biitle.nl/"
+BUG_REPORT_URL="https://biitle.nl/"
+PRIVACY_POLICY_URL="https://biitle.nl/"
+LOGO=archlinux-logo
